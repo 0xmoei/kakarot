@@ -20,7 +20,7 @@
 
 <div align="center">
 
-Kakarot is a zkEVM written in Cairo. It aims to allow users to leverage the
+Kakarot is a zkEVM in Cairo lang. It aims to allow users to leverage the
 scaling benefits of validity rollups while maintaining compatibility with the
 Ethereum ecosystem. Therefore, Kakarot can be used to run Ethereum smart
 contracts on Starknet.
