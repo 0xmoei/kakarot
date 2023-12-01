@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-%lang starknet
+%lang starknett
 
 @storage_var
 func native_token_address() -> (res: felt) {
